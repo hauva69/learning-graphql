@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/hauva69/learning-graphql/issues"
   },
-  "homepage": "https://github.com/hauva69/learning-graphql#readme"
+  "homepage": "https://github.com/hauva69/learning-graphql#readme",
+  "dependencies": {
+    "graphql": "^14.0.2"
+  }
 }
