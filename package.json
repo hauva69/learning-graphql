@@ -1,0 +1,22 @@
+{
+  "name": "learning-graphql",
+  "version": "1.0.0",
+  "description": "Learning GraphQL.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hauva69/learning-graphql.git"
+  },
+  "keywords": [
+    "graphql"
+  ],
+  "author": "Ari Makela <ari.makela@iki.fi>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hauva69/learning-graphql/issues"
+  },
+  "homepage": "https://github.com/hauva69/learning-graphql#readme"
+}
